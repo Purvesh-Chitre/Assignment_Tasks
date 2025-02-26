@@ -104,6 +104,12 @@ model_name = "tiiuae/falcon-7b-instruct"
 
 ---
 
+## Citations:
+Document used for chatbot:
+Goleman, D. (2017). Leadership that gets results. Harvard Business Review March April 2000 - Leadership Perspectives, 85–96. https://doi.org/10.4324/9781315250601-9 
+
+---
+
 ##  License
 This project is **open-source** Feel free to contribute and improve! 
 
