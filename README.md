@@ -87,3 +87,4 @@ This project provides an end-to-end sales analysis solution, helping businesses 
 Purvesh Chitre
 
 ### License
+This project is open-source and free to use.
